@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-Uploading all the solutions for leetcode problems solved
+Uploading all the solutions for leetcode problems
